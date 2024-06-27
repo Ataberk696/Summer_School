@@ -1,0 +1,6 @@
+C:\Users\Ataberk\source\repos\SummerSchool\SummerSchool\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Ataberk\source\repos\SummerSchool\SummerSchool\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Ataberk\source\repos\SummerSchool\SummerSchool\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Ataberk\source\repos\SummerSchool\SummerSchool\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ataberk\source\repos\SummerSchool\SummerSchool\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Ataberk\source\repos\SummerSchool\SummerSchool\EntityLayer\obj\Debug\EntityLayer.pdb
